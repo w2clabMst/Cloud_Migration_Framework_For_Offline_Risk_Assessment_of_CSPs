@@ -1,0 +1,2 @@
+totalThresholdCost 100000 500000
+totalResidualDamageThreshold 10 100
